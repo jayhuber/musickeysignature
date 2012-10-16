@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="category">
+    <category>
+        <text>$course$/Key Signatures/Major/Treble</text>
+
+    </category>
+  </question>
+
+<question type="keysignature">
+    <name><text>C major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>none</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>G major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>D major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>E major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>B major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5,A#4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>F-sharp major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5,A#4,E#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C-sharp major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5,A#4,E#5,B#4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>F major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>B-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>E-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>D-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5,Gb4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>G-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5,Gb4,Cb5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5,Gb4,Cb5,Fb4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+
+  <question type="category">
+    <category>
+        <text>$course$/Key Signatures/Major/Bass</text>
+
+    </category>
+  </question>
+
+<question type="keysignature">
+    <name><text>C major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>none</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>G major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>D major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>E major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>B major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3,A#2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>F-sharp major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3,A#2,E#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C-sharp major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3,A#2,E#3,B#2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>F major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>B-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>E-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>D-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3,Gb2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>G-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3,Gb2,Cb3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C-flat major</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>major</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3,Gb2,Cb3,Fb2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+
+  <question type="category">
+    <category>
+        <text>$course$/Key Signatures/Minor/Treble</text>
+
+    </category>
+  </question>
+
+
+<question type="keysignature">
+    <name><text>A minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>none</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>E minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>B minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>F-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>G-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5,A#4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>D-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5,A#4,E#5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>F#5,C#5,G#5,D#5,A#4,E#5,B#4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>D minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>G minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>F minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>B-flat minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5,Gb4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>E-flat minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5,Gb4,Cb5</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A-flat minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>minor</mode>
+<clef>t</clef>
+<answer fraction="100">
+    <text>Bb4,Eb5,Ab4,Db5,Gb4,Cb5,Fb4</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+
+  <question type="category">
+    <category>
+        <text>$course$/Key Signatures/Minor/Bass</text>
+
+    </category>
+  </question>
+
+<question type="keysignature">
+    <name><text>A minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>none</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>E minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>B minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>F-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>G-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3,A#2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>D-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3,A#2,E#3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A-sharp minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental>#</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>F#3,C#3,G#3,D#3,A#2,E#3,B#2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>D minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>D</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="keysignature">
+    <name><text>G minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>G</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>C minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>C</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>F minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>F</orignoteletter>
+<orignoteaccidental></orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>B-flat minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>B</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3,Gb2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>E-flat minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>E</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3,Gb2,Cb3</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+<question type="keysignature">
+    <name><text>A-flat minor</text>
+</name>
+    <questiontext format="html">
+<text></text>
+    </questiontext>
+    <image></image>
+    <generalfeedback>
+<text></text>
+    </generalfeedback>
+    <defaultgrade>1</defaultgrade>
+    <penalty>0.1</penalty>
+    <hidden>0</hidden>
+    <shuffleanswers>0</shuffleanswers>
+<orignoteletter>A</orignoteletter>
+<orignoteaccidental>b</orignoteaccidental>
+<mode>minor</mode>
+<clef>b</clef>
+<answer fraction="100">
+    <text>Bb2,Eb3,Ab2,Db3,Gb2,Cb3,Fb2</text>
+    <feedback><text></text>
+</feedback>
+</answer>
+</question>
+
+
+
+
+</quiz>

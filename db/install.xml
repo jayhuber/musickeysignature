@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="question/type/musickeysignature/db" VERSION="20121010" COMMENT="XMLDB file for this question type">
+  <TABLES>
+	<TABLE NAME="question_musickeysignature" COMMENT="Options for music key signature questions">
+      <FIELDS>
+	  
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true"
+		       ENUM="false" NEXT="questionid"/>
+			   
+        <FIELD NAME="questionid" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" DEFAULT="0"
+		       SEQUENCE="false" ENUM="false" PREVIOUS="id" NEXT="orignoteletter"/>
+			   
+        <FIELD NAME="orignoteletter" TYPE="char" LENGTH="1" NOTNULL="false" UNSIGNED="false"
+		       SEQUENCE="false" ENUM="false" PREVIOUS="questionid" NEXT="orignoteaccidental"/>
+			   
+        <FIELD NAME="orignoteaccidental" TYPE="char" LENGTH="1" NOTNULL="false" UNSIGNED="false"
+		       SEQUENCE="false" ENUM="false" PREVIOUS="orignoteletter" NEXT="mode"/>
+			   
+        <FIELD NAME="mode" TYPE="char" LENGTH="5" NOTNULL="false" UNSIGNED="false"
+		       SEQUENCE="false" ENUM="false" PREVIOUS="orignoteaccidental" NEXT="clef"/>
+		
+		<FIELD NAME="clef" TYPE="char" LENGTH="1" NOTNULL="false" UNSIGNED="false"
+		       SEQUENCE="false" ENUM="false" PREVIOUS="mode" />
+		   
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id" NEXT="questionid"/>
+        <KEY NAME="questionid" TYPE="foreign" FIELDS="questionid" REFTABLE="questions" REFFIELDS="id" PREVIOUS="primary"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+</XMLDB>
+
