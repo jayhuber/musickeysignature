@@ -8,7 +8,7 @@
     </category>
   </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C major</text>
 </name>
     <questiontext format="html">
@@ -33,7 +33,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G major</text>
 </name>
     <questiontext format="html">
@@ -58,7 +58,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D major</text>
 </name>
     <questiontext format="html">
@@ -83,7 +83,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A major</text>
 </name>
     <questiontext format="html">
@@ -108,7 +108,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E major</text>
 </name>
     <questiontext format="html">
@@ -133,7 +133,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B major</text>
 </name>
     <questiontext format="html">
@@ -159,7 +159,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F-sharp major</text>
 </name>
     <questiontext format="html">
@@ -184,7 +184,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C-sharp major</text>
 </name>
     <questiontext format="html">
@@ -210,7 +210,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F major</text>
 </name>
     <questiontext format="html">
@@ -236,7 +236,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B-flat major</text>
 </name>
     <questiontext format="html">
@@ -261,7 +261,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E-flat major</text>
 </name>
     <questiontext format="html">
@@ -286,7 +286,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A-flat major</text>
 </name>
     <questiontext format="html">
@@ -311,7 +311,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D-flat major</text>
 </name>
     <questiontext format="html">
@@ -336,7 +336,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G-flat major</text>
 </name>
     <questiontext format="html">
@@ -361,7 +361,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C-flat major</text>
 </name>
     <questiontext format="html">
@@ -395,7 +395,7 @@
     </category>
   </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C major</text>
 </name>
     <questiontext format="html">
@@ -420,7 +420,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G major</text>
 </name>
     <questiontext format="html">
@@ -445,7 +445,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D major</text>
 </name>
     <questiontext format="html">
@@ -470,7 +470,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A major</text>
 </name>
     <questiontext format="html">
@@ -495,7 +495,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E major</text>
 </name>
     <questiontext format="html">
@@ -520,7 +520,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B major</text>
 </name>
     <questiontext format="html">
@@ -546,7 +546,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F-sharp major</text>
 </name>
     <questiontext format="html">
@@ -571,7 +571,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C-sharp major</text>
 </name>
     <questiontext format="html">
@@ -597,7 +597,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F major</text>
 </name>
     <questiontext format="html">
@@ -623,7 +623,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B-flat major</text>
 </name>
     <questiontext format="html">
@@ -648,7 +648,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E-flat major</text>
 </name>
     <questiontext format="html">
@@ -673,7 +673,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A-flat major</text>
 </name>
     <questiontext format="html">
@@ -698,7 +698,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D-flat major</text>
 </name>
     <questiontext format="html">
@@ -723,7 +723,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G-flat major</text>
 </name>
     <questiontext format="html">
@@ -748,7 +748,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C-flat major</text>
 </name>
     <questiontext format="html">
@@ -783,7 +783,7 @@
   </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A minor</text>
 </name>
     <questiontext format="html">
@@ -808,7 +808,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E minor</text>
 </name>
     <questiontext format="html">
@@ -833,7 +833,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B minor</text>
 </name>
     <questiontext format="html">
@@ -858,7 +858,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -883,7 +883,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -908,7 +908,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -934,7 +934,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -959,7 +959,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -985,7 +985,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D minor</text>
 </name>
     <questiontext format="html">
@@ -1011,7 +1011,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G minor</text>
 </name>
     <questiontext format="html">
@@ -1036,7 +1036,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C minor</text>
 </name>
     <questiontext format="html">
@@ -1061,7 +1061,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F minor</text>
 </name>
     <questiontext format="html">
@@ -1086,7 +1086,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B-flat minor</text>
 </name>
     <questiontext format="html">
@@ -1111,7 +1111,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E-flat minor</text>
 </name>
     <questiontext format="html">
@@ -1136,7 +1136,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A-flat minor</text>
 </name>
     <questiontext format="html">
@@ -1170,7 +1170,7 @@
     </category>
   </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A minor</text>
 </name>
     <questiontext format="html">
@@ -1196,7 +1196,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E minor</text>
 </name>
     <questiontext format="html">
@@ -1221,7 +1221,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B minor</text>
 </name>
     <questiontext format="html">
@@ -1246,7 +1246,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -1271,7 +1271,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -1296,7 +1296,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -1322,7 +1322,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -1347,7 +1347,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A-sharp minor</text>
 </name>
     <questiontext format="html">
@@ -1373,7 +1373,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>D minor</text>
 </name>
     <questiontext format="html">
@@ -1399,7 +1399,7 @@
 </question>
 
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>G minor</text>
 </name>
     <questiontext format="html">
@@ -1424,7 +1424,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>C minor</text>
 </name>
     <questiontext format="html">
@@ -1449,7 +1449,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>F minor</text>
 </name>
     <questiontext format="html">
@@ -1474,7 +1474,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>B-flat minor</text>
 </name>
     <questiontext format="html">
@@ -1499,7 +1499,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>E-flat minor</text>
 </name>
     <questiontext format="html">
@@ -1524,7 +1524,7 @@
 </answer>
 </question>
 
-<question type="keysignature">
+<question type="musickeysignature">
     <name><text>A-flat minor</text>
 </name>
     <questiontext format="html">
