@@ -15,56 +15,26 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Defines the editing form for the music key signature question type.
- *
- * @package     qtype
- * @subpackage  musickeysignature
- * @copyright   &copy; 2009 Eric Brisson for Moodle 1.x and Flash Component
- * @author      ebrisson at winona.edu
- * @copyright   &copy; 2012 Jay Huber for Moodle 2.x
- * @author      jhuber at colum.edu
- * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
-*/
-
+ * @package    qtype
+ * @subpackage musickeysignature
+ * @copyright  2013 Jay Huber (jhuber@colum.edu)
+ * @copyright  2009 Eric Bisson (ebrisson@winona.edu)
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
 
 defined('MOODLE_INTERNAL') || die();
 
-require_once($CFG->dirroot . '/question/type/edit_question_form.php');
-
 /**
- * Scale editing form definition.
- * 
+* musickeysignature question editing form definition.
+*
+* @copyright  2013 Jay Huber (jhuber@colum.edu)
+* @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
 */
 
+
 class qtype_musickeysignature_edit_form extends question_edit_form {
-    const MAX_GROUPS = 8;
 
-    /** @var array of HTML tags allowed in choices / drag boxes. */
-    protected $allowedhtmltags = array(
-        'sub',
-        'sup',
-        'b',
-        'i',
-        'em',
-        'strong'
-    );
-
-    /** @var string regex to match HTML open tags. */
-    private $htmltstarttagsandattributes = '/<\s*\w.*?>/';
-
-    /** @var string regex to match HTML close tags or br. */
-    private $htmltclosetags = '~<\s*/\s*\w\s*.*?>|<\s*br\s*>~';
-
-    /** @var string regex to select text like [[cat]] (including the square brackets). */
-    private $squarebracketsregex = '/\[\[[^]]*?\]\]/';
-
-    /**
-     * definition_inner adds all specific fields to the form.
-     * @param object $mform (the form being built).
-     */
     protected function definition_inner($mform) {
-        global $CFG;
-
         $mform->addElement('select', 'orignoteletter', 
             get_string('orignoteletter','qtype_musickeysignature'),
             array( "C"  => get_string('C','qtype_musickeysignature'),
@@ -191,6 +161,6 @@ class qtype_musickeysignature_edit_form extends question_edit_form {
     }
 
     public function qtype() {
-        return 'keysignature';
+        return 'musickeysignature';
     }
 }

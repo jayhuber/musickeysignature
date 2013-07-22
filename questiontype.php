@@ -15,31 +15,49 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Question type class for the Music Interval question type.
- *
- * @package     qtype
- * @subpackage  musickeysignature
- * @copyright   &copy; 2009 Eric Brisson for Moodle 1.x and Flash Component
- * @author      ebrisson at winona.edu
- * @copyright   &copy; 2012 Jay Huber for Moodle 2.x
- * @author      jhuber at colum.edu
- * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
-*/
-
+ * @package    qtype
+ * @subpackage musickeysignature
+ * @copyright  2013 Jay Huber (jhuber@colum.edu)
+ * @copyright  2009 Eric Bisson (ebrisson@winona.edu)
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
 
 defined('MOODLE_INTERNAL') || die();
 
 require_once($CFG->dirroot . '/question/type/musickeysignature/question.php');
 
+/**
+ * The musickeysignature question type.
+ *
+ * @copyright  2013 Jay Huber (jhuber@colum.edu)
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
 class qtype_musickeysignature extends question_type {
 	
-    /**
-    * Overriden function. See comments from base class.
-    */
     function name() {
         return 'musickeysignature';    
     }
 
+    function extra_question_fields() {
+        return array('question_musickeysignature',        
+            'orignoteletter',  
+            'orignoteaccidental',      
+            'mode',
+            'clef'    
+            );
+    }
+
+    public function move_files($questionid, $oldcontextid, $newcontextid) {
+        parent::move_files($questionid, $oldcontextid, $newcontextid);
+        $this->move_files_in_hints($questionid, $oldcontextid, $newcontextid);
+    }
+
+    protected function delete_files($questionid, $contextid) {
+        parent::delete_files($questionid, $contextid);
+        $this->delete_files_in_hints($questionid, $contextid);
+    }
+    
 	protected function initialise_question_instance(question_definition $question, $questiondata) {
         parent::initialise_question_instance($question, $questiondata);
 		$answers = $questiondata->options->answers;
@@ -52,26 +70,16 @@ class qtype_musickeysignature extends question_type {
 		$this->initialise_question_answers($question, $questiondata, false);
 	}	
 	
-    /// QUESTION OPTIONS /////////////////
-	
-    /**
-    * Overriden function. See comments from base class.
-    */
-    function extra_question_fields() {
-        return array('question_musickeysignature',        
-            'orignoteletter',  
-            'orignoteaccidental',      
-            'mode',
-            'clef'    
-            );
+    public function get_random_guess_score($questiondata) {
+        // TODO.
+        return 0;
+    }
+
+    public function get_possible_responses($questiondata) {
+        // TODO.
+        return array();
     }
 	
-    /**
-    * Overriden function. See comments from base class.
-    * 
-    * This implementation saves question answers before calling the parent function.
-    * 
-    */
     function save_question_options($question) {
         $this->save_question_answers($question);
 		

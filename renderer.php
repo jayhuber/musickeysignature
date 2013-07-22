@@ -15,27 +15,28 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Music Key Signature renderer class.
- *
- * @package     qtype
- * @subpackage  musickeysignature
- * @copyright   &copy; 2009 Eric Brisson for Moodle 1.x and Flash Component
- * @author      ebrisson at winona.edu
- * @copyright   &copy; 2012 Jay Huber for Moodle 2.x
- * @author      jhuber at colum.edu
- * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
-*/
-
+ * @package    qtype
+ * @subpackage musickeysignature
+ * @copyright  2013 Jay Huber (jhuber@colum.edu)
+ * @copyright  2009 Eric Bisson (ebrisson@winona.edu)
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
 
 defined('MOODLE_INTERNAL') || die();
 
+/**
+ * Generates the output for musickeysignature questions.
+ *
+ * @copyright  2013 Jay Huber (jhuber@colum.edu)
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
 
 class qtype_musickeysignature_renderer extends qtype_renderer {
 
     public function formulation_and_controls(question_attempt $qa,
  	       question_display_options $options) {
 
-		global $PAGE, $CFG;
+		global $CFG;
 		$output = "";
 
         $question = $qa->get_question();
@@ -90,13 +91,36 @@ class qtype_musickeysignature_renderer extends qtype_renderer {
 
     public function correct_response(question_attempt $qa) {
         $question = $qa->get_question();
-	    $response = $qa->get_last_qt_var('answer', '');
+        $response = $qa->get_last_qt_var('answer', '');
+        $answer = strtolower($response);
 
-        if ($question->rightanswer != $response) {
-            return get_string('feedbackwronganswer', 'qtype_musickeysignature').$question->rightanswer;
+        if (substr($answer, -1, 1) == ',') {
+            $answer = substr($answer, 0, -1);
+        }
+
+        $output = "";
+        $correct = 0;
+        $out_answer = "";
+        foreach ($question->answers as $a) {
+            if ($answer == strtolower($a->answer)) {
+                $correct = $a->fraction;
+            }
+
+            if ($out_answer != "") {
+                $out_answer .= "|";
+            }
+            $out_answer .= strtolower($a->answer);
+        }
+
+        if ($correct > 0) {
+            $output .= get_string('feedbackcorrectanswer', 'qtype_musickeysignature');
         } else {
-            return get_string('feedbackcorrectanswer', 'qtype_musickeysignature');
-		}
+            $output .= get_string('feedbackwronganswer', 'qtype_musickeysignature')."<br />";
+            $output .= html_writer::tag('div', '', array('id' => 'answers'));
+            $output .= str_replace("|","<br />or<br />",$out_answer);
+        }
+
+        return $output;
     }
 
 
